@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a MS Bioinformatics student in the Knight Campus Graduate Internship Program, as well as a Graduate Research Assistant in the Jaramillo Lab studying circuit dynamics in the mouse auditory cortex
+I am a MS Bioinformatics student in the Knight Campus Graduate Internship Program, as well as a Graduate Research Assistant in the Jaramillo Lab studying and manipulating circuit dynamics in the mouse auditory cortex
 
 <!--
 **ramzymulla/ramzymulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
